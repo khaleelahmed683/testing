@@ -10,3 +10,7 @@ h1.addEventListener('mouseleave',function(){
     
     document.querySelector('#nav h1').style.backgroundColor = "black";
 }) 
+
+function a() {
+    console.log("hello");
+}
