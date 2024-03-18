@@ -37,3 +37,16 @@ main {
 #nav-part3 button {
     color: black !important;;
 }
+
+#con h1 {
+    color: black !important;
+    margin-top: 70px;
+    margin-left: 20px;
+    font-size: 50px;
+}
+
+#con p {
+    color: black !important;
+    margin-left: 20px;
+    
+}
