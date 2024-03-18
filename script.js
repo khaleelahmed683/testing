@@ -14,3 +14,7 @@ h1.addEventListener('mouseleave',function(){
 function a() {
     console.log("hello");
 }
+
+function b() {
+    console.log("bye");
+}
