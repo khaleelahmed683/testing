@@ -27,6 +27,9 @@ main {
     padding: 0 20px;
 
 }
+#nav h1 {
+    display: block;
+}
 
 #nav-part2 {
     display: flex;
@@ -48,5 +51,5 @@ main {
 #con p {
     color: black !important;
     margin-left: 20px;
-    
+
 }
